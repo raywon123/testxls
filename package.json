@@ -1,0 +1,23 @@
+{
+  "name": "testxls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excelwrite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raywon123/testxls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raywon123/testxls/issues"
+  },
+  "homepage": "https://github.com/raywon123/testxls#readme",
+  "dependencies": {
+    "exceljs": "^1.7.0"
+  }
+}
